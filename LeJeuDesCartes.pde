@@ -6,6 +6,7 @@
 //2 pour l'enlever
 //enter pour passer un tour
 // numpad pour gerer la mana
+// Ca c'est pour GitHub
 
 void setup() {
   size(1280, 720);
