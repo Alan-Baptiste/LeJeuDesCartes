@@ -20,3 +20,6 @@ int priseCompo = -1;
 
 int scoreJ1 = 0;
 int scoreJ2 = 0;
+
+int bouleJ1 = 0;
+int bouleJ2 = 0;
